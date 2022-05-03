@@ -1,0 +1,5 @@
+# Schema for the theme setting configuration file of the Brussel Danst CRM theme.
+
+brusseldanst_crm.settings:
+  type: theme_settings
+  label: 'Brussel Danst CRM settings'
